@@ -6,5 +6,6 @@ git status
 git add .
  git commit -m "firstcommit"
  git remote add origin https://github.com/sanketpatil0411/demo.git
+ git remote set-url origin https://github.com/sanketpatil0411/demo.git
  git branch -M main
 git push -u origin main
